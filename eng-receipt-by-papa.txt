@@ -1,0 +1,206 @@
+poet	noun	<strong>詩人</strong>	"<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">A reporter poses the question, “Do you think of yourself primarily as a singer or as a&nbsp;</span>{{c1::poet}}<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">?”</span>"	記者提出了文字：“你覺得自己更像歌手還是詩人呢？”		
+renowned	adj.	享譽盛名的	"<span style=""font-weight: inherit;"">We asked for advice from the&nbsp;</span>{{c1::renowned}}&nbsp;<span style=""font-weight: inherit;"">legal expert, Sam Pincher.</span>"	我們向享譽盛名的法律顧問Sam Pincher尋求建議		
+reign	Verb	统治、当政	How long did Queen Victoria {{c1::reign}}?	维多利亚女王在位多久？		
+gown	名词, 单数	长袍、礼服	My sister is planning her wedding and making her own bridal {{c1::gown}}.	我姐姐正在策划自己的婚礼并亲手做自己的婚纱。		
+municipality	名词, 单数	直辖市、自治市	The {{c1::municipality}} has its own water supply system.	该市有自己的供水系统。		
+contempt	名词, 单数	轻视、蔑视	The doctor is a kind person who has never shown {{c1::contempt}} for anyone.	那个医生是个善良的人，从来没有轻视过任何人。		
+spontaneous	形容词	自发的、主动的	{{c1::spontaneous}} people do things without planning.	随性的人做事没有规划。		
+coalition	名词, 单数	联合	We need a {{c1::coalition}} of working class organizations to modernize the labor market.	我们需要联合工人阶级组织来使劳动市场现代化。		
+theology	名词, 单数	神学	Our academic interests include philosophy, {{c1::theology}}, and ancient history.	我们的学术兴趣包括哲学、神学和古代史。		
+chronicle	名词, 单数	记事、叙述	Her {{c1::chronicle}} of the Arctic expedition depicts life in extreme conditions.	她的北极探险记事描绘了极端条件下的生命。		
+lousy	形容词	糟透了的	"We had some {{c1::lousy}} weather last week, so we couldn't go to the beach."	上周的天气很糟糕，所以我们没法去海边。		
+damp	形容词	潮湿的	His clothes are still {{c1::damp}} from the rain.	他的衣服被雨淋了，还是湿的。		
+corridor	名词, 单数	过道、走廊	If you walk down the {{c1::corridor}}, you will find the office at the end.	如果你沿走廊往下走，你会在尽头找到办公室。		
+vague	形容词	含糊的、不清楚的	The instructions were {{c1::vague}} and difficult to understand.	指示不清不楚，难以理解。		
+petty	形容词	小的、琐碎的	"She doesn't like the color of the dress. – That's such a {{c1::petty}} complaint!"	“她不喜欢那条连衣裙的颜色。” “那简直是吹毛求疵！”		
+canon	名词, 单数	作品全集	Hamlet is the longest play in the entire Shakespeare {{c1::canon}}.	《哈姆雷特》是莎士比亚全集中最长的剧作。		
+onwards	副词	向前、朝前	All job application interviews will be held from March {{c1::onwards}}.	所有的应聘面试将从三月起进行。		
+clay	名词, 单数	陶土、黏土	Roof tiles are usually made of {{c1::clay}} or concrete.	屋顶的瓦片通常是粘土或水泥做的。		
+interim	形容词	临时的	He worked as the {{c1::interim}} manager while his boss looked for a permanent replacement.	他一边代任临时经理，他的老板一边物色长远的替代人选。		
+orchard	名词, 单数	果园	My neighbors have planted an apple {{c1::orchard}} in their backyard.	我的邻居在他们的后院种了一个苹果园。		
+namely	副词	即、就是	There is a coalition government, {{c1::namely}} the National Democratic Alliance.	有一个联合政府，即全国民主联盟。		
+respective	形容词	分别的、各自的	All contents and images on this website are the property of their {{c1::respective}} owners.	这个网站上的所有内容和图像均为其各自所有者的产权。		
+cement	名词, 单数	水泥	"The building's foundation is made from {{c1::cement}}."	大楼的地基是水泥筑的。		
+fig	名词, 单数	无花果	The unique-tasting {{c1::fig}} has several health benefits.	这口味独特的无花果对健康好处多多。		
+caravan	名词, 单数	露营车、大篷车	Campers usually prefer to clean their {{c1::caravan}} on site.	露营者通常喜欢现场清理营车。		
+moderate	形容词	适度的	I only drink a {{c1::moderate}} amount of alcohol.	我只适量饮酒。		
+basin	名词, 单数	盆	Wash the vegetables in a large {{c1::basin}}.	把蔬菜放到一个大盆子里洗。		
+lean	形容词	瘦的	{{c1::lean}} meat and eggs are good sources of protein.	瘦肉和蛋是蛋白质的良好来源。		
+voyage	名词, 单数	旅途、旅程	Are you ready for a two-week {{c1::voyage}} on the sea?	你准备好度过两星期的海上航程了吗？		
+bust	动词, 原形	打破、打碎	You will {{c1::bust}} your camera if you drop it from up here.	如果你把相机从这上面掉下去会摔碎的。		
+beacon	名词, 单数	灯塔、烽火	The pilot relied on the {{c1::beacon}} for guidance in the dark.	飞行员在黑暗中依靠信号灯导航。		
+mighty	形容词	强大的	He put all his strength into one {{c1::mighty}} blow.	他使出全力猛击。		
+sin	名词, 单数	罪、罪孽	It would be a {{c1::sin}} to let all this food go to waste.	浪费这么多食物会是种罪过。		
+occasionally	副词	偶尔	We meet up {{c1::occasionally}} for a drink.	我们偶尔碰面喝酒。		
+premier	形容词	首要的	"This is the island's {{c1::premier}} hotel."	这间饭店是这座岛上的首选。		
+trustees	名词, 复数	受托人	Our financial advisors and {{c1::trustees}} in bankruptcy are ready to help you.	我们的理财顾问和破产受托人随时都可以帮助您。		
+veterinary	形容词	兽医的	I studied {{c1::veterinary}} medicine for three years.	我读了三年兽医学。		
+pier	名词, 单数	码头	The first recorded {{c1::pier}} in England was opened in 1814.	英格兰有历史记载的第一座码头在1814年开放。		
+dame	名词, 单数	女爵士	{{c1::dame}} is a noble title.	女爵士是贵族的封号。		
+beaten	形容词	常走的、久经践踏的	"It's just far enough off the {{c1::beaten}} track to feel like an adventure."	这里人迹罕至，偏远到感觉像是一次探险。		
+hay	名词, 单数	干草	Spring is usually the peak season for {{c1::hay}} fever.	春季通常是花粉症的高发季节。		
+rip	名词, 单数	裂缝	Your shirt has a {{c1::rip}} in it.	你的衬衫上有裂缝。		
+grunting	动词, 现在分词	发出哼声	The workers were {{c1::grunting}} with effort as they lifted the piano up the stairs.	工人们把钢琴抬上台阶时用力地发出哼声。		
+emerging	形容词	新兴的	Developing countries are also called {{c1::emerging}} markets.	发展中国家又称为新兴市场。		
+forthcoming	形容词	即将到来的	Please mark all {{c1::forthcoming}} events in the calendar.	请把所有即将到来的活动都标记在日程表中。		
+cannon	名词, 单数	大炮	This museum is showing the first cast-iron {{c1::cannon}} made in England.	这家博物馆正在展示英格兰制造的第一座铸铁大炮。		
+ferry	名词, 单数	渡轮	We plan to reach the island by {{c1::ferry}} and return by plane.	我们计划搭渡轮去岛上再打飞机回来。		
+occupation	名词, 单数	职业	What is your current {{c1::occupation}} or employment status?	你目前的职业或就业状况怎样？		
+birch	名词, 单数	白桦树	The valley was once covered with {{c1::birch}} and pine forests.	那个山谷曾经遍布白桦树和松树林。		
+gig	名词, 单数	演出	They had their first {{c1::gig}} this week.	他们这星期第一次演出。		
+chattering	动词, 现在分词	唧唧喳喳、唠叨	What have you two been {{c1::chattering}} away about all morning?	你们整个早上都在唧唧喳喳什么？		
+servant	名词, 单数	仆人, 职员	"A public {{c1::servant}} doesn't get to choose which parts of their job they will do."	公务员无法选择他们工作上要负责哪些层面。		
+lap	名词, 单数	大腿	I spilled my drink when the cat jumped onto my {{c1::lap}}.	猫跳上我的大腿时，我把饮料洒了。		
+distinct	形容词	显著的、明显的	"There's a {{c1::distinct}} smell of burning coming from somewhere."	不知道哪里传来了一股很明显的烧焦味。		
+creek	名词, 单数	小溪	The {{c1::creek}} dries up every summer.	这条小溪每年夏天都会干涸。		
+surgeon	名词, 单数	外科医生	He is a plastic {{c1::surgeon}}.	他是整型外科医生。		
+spike	名词, 单数	峰值	I see a large {{c1::spike}} in the graph from yesterday.	我在昨天的图表上看到一个大的峰值。		
+amber	名词, 单数	琥珀	"{{c1::amber}} necklaces are believed to relieve a baby's teething pains."	有人相信琥珀项链可以缓解婴儿长牙的疼痛。		
+willow	名词, 单数	柳树	"What tree is this? – It's an almond {{c1::willow}}."	“这是什么树？” “这是毛柳。”		
+blade	名词, 单数	刀刃	The knife {{c1::blade}} is really dull.	这菜刀的刀刃真的很钝。		
+sailing	名词, 单数	航行	"I went {{c1::sailing}} once, but I didn't like it."	我航行过一次，但并不喜欢。		
+tan	名词, 单数	小麦色	"Have you been spending a lot of time at the beach? It looks like you've got a {{c1::tan}}."	你最近常去海边吗？你好像晒黑了。		
+hawk	名词, 单数	鹰、隼	"The teacher watched the pupils like a {{c1::hawk}} to make sure they didn't cheat."	老师像鹰一般紧盯着学生看，确保他们没作弊。		
+oak	名词, 单数	橡树	This {{c1::oak}} tree is believed to be over 300 years old.	人们认为这棵橡树已经300多岁了。		
+delegates	名词, 复数	代表	{{c1::Delegates}} from all EU countries will attend the conference this weekend.	来自欧盟所有国家的代表们将出席这周末的会议。		
+workforce	名词, 单数	劳动力、全体员工	A highly skilled {{c1::workforce}} is critical to the economy of any nation.	技术高度熟练的劳动力是任何国家经济的关键。		
+lime	名词, 单数	青柠	Add a slice of {{c1::lime}}.	加一片青柠。		
+declaration	名词, 单数	宣言	Jefferson drafted the {{c1::declaration}} proclaiming the independence of the colonies.	Jefferson起草了宣言，宣布殖民地的独立。		
+acres	名词, 复数	英亩	The villagers worked together to clear one hundred {{c1::acres}} of land and plant crops.	村民一起清理了一百亩地种植庄稼。		
+rental	名词, 单数	出租	"Is this car yours? – No, it's a {{c1::rental}}."	“这是你的车吗？” “不是，这是租的。”		
+waterways	名词, 复数	水路	Cities have historically grown along major shipping routes and {{c1::waterways}}.	城市历来都沿着航线和水路发展。		
+salmon	名词, 单数	三文鱼	Remove any bones from the {{c1::salmon}} and marinate it for 20 minutes.	将三文鱼去掉所有鱼刺，腌20分钟。		
+compost	名词, 单数	堆肥	{{c1::compost}} consists of various microorganisms that contribute to better plant growth.	堆肥含有各种有利于植物更好生长的微生物。		
+wreck	名词, 单数	毁灭、失事	We saw an awful {{c1::wreck}} on the way home from school today.	今天从学校回家的路上我们看见了一起可怕的事故。		
+amateur	形容词	业余的	{{c1::amateur}} photography is becoming increasingly popular in our community.	业余摄影在我们小区正变得越来越流行。		
+procurement	名词, 单数	采购	Our company seeks sustainable {{c1::procurement}} of wood and paper-based products.	我们公司寻求可持续采购的木质和纸质产品。		
+consensus	名词, 单数	意见一致	There is a general {{c1::consensus}} among scientists that climate change is happening.	科学家们有普遍共识，认为气候变化正在发生。		
+raid	名词, 单数	突袭、突击	Two soldiers were captured in a cross-border {{c1::raid}} last night.	两名士兵在昨晚的跨境突袭中被俘。		
+peck	动词, 原形	啄	Birds {{c1::peck}} the ground to obtain small rocks that help them with digestion.	鸟啄食地面的小石头帮助消化。		
+toad	名词, 单数	蟾蜍、蛤蟆	"We're organizing a {{c1::toad}} watching evening next Tuesday."	我们正在组织下周二晚上观赏蟾蜍。		
+sage	名词, 单数	鼠尾草	{{c1::Sage}} pairs perfectly with rosemary and thyme.	鼠尾草跟迷迭香和百里香非常搭。		
+lad	名词, 单数	小伙子	"The poor {{c1::lad}} didn't stand a chance."	可怜的小伙子一点希望也没有。		
+trauma	名词, 单数	创伤	She shows signs of psychological {{c1::trauma}}.	她出现心理创伤的迹象。		
+siblings	noun 複數	兄弟/姐妹	"<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">She wonders if they’re half&nbsp;</span>{{c1::siblings}}&nbsp;<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">with only a mother in common too.</span>"	她想知道他們是不是同母異父的兄弟姐妹		
+absorbent	Adj.	吸水的	"<span style=""color: rgb(29, 42, 87);"">After repeated washing towels become less&nbsp;</span>{{c1::absorbent}}<span style=""color: rgb(29, 42, 87);"">.</span>"	重複使用的毛巾吸水能力下降		
+assess	verb 原形	評估	"<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">Groves and Oppenheimer agreed to meet again at one in the morning to&nbsp;</span>{{c1::assess}}<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">&nbsp;the situation.</span>"	"<span style=""color: rgb(51, 51, 51);"">Groves和Oppen同意在凌晨一點見面以評估形勢。</span>"		
+constituted	verb 過去式	構成、造成	There was no magisterial district in all of South Africa where whites&nbsp;{{c1::constituted}}&nbsp;a majority of residents.	整個南非沒有一個轄區是以白人為主構成的。		
+derive	verb 過去式	源自、衍生	"Almost all the world's plastic is&nbsp;{{c1::derived}}&nbsp;from high-polluting oil and gas."	世界上幾乎所有塑料都來自高汙染石油與天然氣		
+implication	noun	含義、影響、暗示	Suddenly the true&nbsp;{{c1::implication}} of what Holmes had done became clear to him.	突然間，他明白了Holmes所作所爲背後的意涵。		
+premise	noun verb	前提	If the&nbsp;{{c1::premise}}&nbsp;is true, then the conclusion must be true	如果前設是正確的，那麽結論也是對的。		
+provisions	noun 複數	供應、食物	"""We'll provide you with fresh mounts and&nbsp;{{c1::provisions}},"" her brother promised."	“我們會爲你提供新的坐騎和補給。”她的兄弟承諾道。		
+provisions	noun 複數	條款	The tax&nbsp;{{c1::provisions}}&nbsp;in the deal are sound on a policy level and smart on a political one.	交易中的稅收條款在政策層面是合理的，在政治層面上是明智的。		
+vary	verb	改變	His moods&nbsp;{{c1::vary}}&nbsp;depending on the weather	他的心情依據天氣而改變。		
+virtually	adverb	幾乎	The strike&nbsp;{{c1::virtually}}&nbsp;paralyzed the city	罷工幾乎癱瘓了這座城市		
+vital	adj	重要、必要	The doctors can do nothing for the president but monitor his&nbsp;{{c1::vital}}&nbsp;signs.	醫生除了檢測他的生命體徵外，無能爲力。		
+administer	verb 過去式	給予（藥物）	I&nbsp;{{c1::administered}} an antidote hours ago. Do not try to rise yet.	我在一小時前服用了解毒藥，暫時不要起身。		
+administers	verb 三單	管理、執行	&nbsp;“You might be surprised who&nbsp;{{c1::administers}}&nbsp;the penalties.”	你可能會被執行處罰的人驚訝到。		
+commission	noun	佣金	In addition to his salary, he gets a 1%&nbsp;{{c1::commission}}&nbsp;on each sale.	除了底薪，他能從每筆交易獲得1%的提成。		
+conscious	adj	有意識的	Remained&nbsp;{{c1::conscious}}&nbsp;during the operation	在手術過程中保持清醒		
+equate	verb	使……相等	You cannot&nbsp;{{c1::equate}}&nbsp;success in financial matters with greed	你不能把有錢與貪婪劃上等號。		
+genuine	adj	真實、真誠	She shared her bitterness and sorrow, and it must have sounded&nbsp;{{c1::genuine}}.	她開始講起箇中辛酸，聽起來非常真實。		
+intervention	noun	介入	In each case, human {{c1::intervention}}&nbsp;seems to be quite efficacious.	在任何情況下，人爲干預都相當有效。		
+judicial	adj	公正的	Film critics are expected to give {{c1::judicial}} reviews.	影評人應當給出公正的評價。		
+judicial	adj	司法的	I have faith in you, and faith in the American&nbsp;{{c1::judicial}}&nbsp;system.	我相信你，也相信美國的司法系統。		
+resided	verb （過去式）	屬於、居住	I could feel the place inside of me where she had&nbsp;{{c1::resided}}.	我能感受到她曾在我心中的位置。		
+statutory	adj	受規管的、法定的	Cameron told MPs he was opposed to any&nbsp;{{c1::statutory}}&nbsp;control.	卡梅隆告訴議員他反對任何法規限制。		
+tendencies	noun 單數	傾向	Freud linked paranoia with homosexual&nbsp;{{c1::tendencies}}.	佛洛依德將偏執與同性戀傾向聯係起來。		
+vulnerable	adj	脆弱	Neck and stomach are {{c1::vulnerable}}&nbsp;parts of the body	脖子和腹部是人體的脆弱部位		
+hurricane	noun 單數	颶風	Everyone knew a {{c1::hurricane}} was coming and abandoned the coast.	大家知道有飓风要来，都离开海边了。		
+incorporated	动词, 过去式 和 过去分词 同形	纳入、结合	We {{c1::incorporated}} many of your suggestions in the final document.	我们在最终文件纳入了很多你提的建议。		
+correspondence	名词, 单数	通信、联系	They have been in {{c1::correspondence}} for years.	他们多年以来一直保持联系。		
+basement	名词, 单数	地下室	"It's a {{c1::basement}} flat; that's why it's so cheap."	这是地下室的公寓，所以才会这么便宜。		
+glorious	形容词	光荣的	The captain leads the team to {{c1::glorious}} victory!	队长带领球队迈向光荣的胜利。		
+rage	名词, 单数	狂怒、盛怒	We must relax and prevent anger from growing into {{c1::rage}}.	我们必须放松，避免将愤怒演变为狂怒。		
+spatial	形容词	空间的	Architecture is the design of meaningful {{c1::spatial}} environments.	建筑是有意义的空间环境的设计。		
+tense	形容词	拉紧的	When you become stressed, your shoulder muscles become {{c1::tense}} and tight.	当你变得有压力，你肩膀的肌肉就变得又紧又僵。		
+endure	动词, 原形	忍受、忍耐	I had to {{c1::endure}} a three-hour meeting at work today.	我不得不忍受今天上班开三小时的会。		
+offenders	名词, 复数	犯错或犯罪的人	First-time {{c1::offenders}} will receive a verbal warning for being absent from school.	初次违反者将收到对于逃课的口头警告。		
+retained	动词, 过去式 和 过去分词 同形	保留	The original layout and floor plan of the house were {{c1::retained}}.	该房子原本的布局和平面图被保留了。		
+bucket	名词, 单数	桶	Pour some water in the {{c1::bucket}}.	倒点水到桶里面。		
+butcher	名词, 单数	屠夫	"You can get the freshest meat at the {{c1::butcher}}'s if you go to the market early."	你如果早点去菜市场，可以在屠夫的肉铺买到最新鲜的肉。		
+cord	名词, 单数	电源线	The {{c1::cord}} is plugged into the wall.	电源线插在墙上。		
+eclipse	动词, 原形	蚀	The solar {{c1::eclipse}} was most visible from the northern hemisphere.	日蚀在北半球看得最清楚。		
+scores	动词, 第三人称单数	得分	He shoots, he {{c1::scores}}!	他一射门就得分！		
+privilege	名词, 单数	特别给予的好处或待遇	Managers receive a company car and higher salary as a {{c1::privilege}}.	经理收到公司的小车和更高的薪水作为特殊待遇。		
+offence	名词, 单数	见怪、冒犯	No {{c1::offence}}. – None taken.	“没有冒犯你的意思。” “我没介意。”		
+annex	名词, 单数	侧楼、附属建筑	An {{c1::annex}} was added to the hotel to meet the demand for banquets.	饭店加建了一栋侧楼，以满足举办宴会的需求。		
+nail	名词, 单数	指甲	Do you have a {{c1::nail}} file?	你有没有指甲锉？		
+breakdown	名词, 单数	崩溃	She almost had a nervous {{c1::breakdown}} due to all the stress preparing for the exam.	她几乎因为准备考试造成的所有压力而精神崩溃。		
+waist	名词, 单数	腰	I tightened the belt around my {{c1::waist}}.	我勒紧了腰带。		
+infant	名词, 单数	婴儿	The mother was holding her {{c1::infant}} baby.	母亲抱着她襁褓中的婴儿。		
+colonies	名词, 复数	殖民地	Jefferson drafted the declaration proclaiming the independence of the {{c1::colonies}}.	Jefferson起草了宣言，宣布殖民地的独立。		
+hop	动词, 原形	跳	I had to {{c1::hop}} on one foot to avoid getting wet.	我得用一只脚跳才不会弄湿。		
+prayer	名词, 单数	祈祷	That new job offer seems like an answer to my {{c1::prayer}}.	新的工作简直就是应验了我的祈祷。		
+settlement	名词, 单数	协议	"We'll attempt to reach a {{c1::settlement}} tomorrow."	我们明天争取达成协议。		
+wound	名词, 单数	伤口	He knew the {{c1::wound}} needed attention and called the doctor.	他知道伤口需要处理，于是找了医生。		
+buried	动词, 过去式 和 过去分词 同形	埋藏、掩埋	We {{c1::buried}} the box in the garden.	我们把盒子埋在花园里。		
+ensuring	动词, 现在分词	确保、保证	The website is fully committed to {{c1::ensuring}} the privacy of its users.	该网站致力于确保用户的隐私。		
+revenge	名词, 单数	报复、复仇	She wanted {{c1::revenge}} for the trouble he had caused.	她想将他造成的麻烦回敬给他。		
+reserved	动词, 过去式 和 过去分词 同形	预约	I {{c1::reserved}} a table for four tomorrow night at 8 p.m.	我订了明晚8点四个人的桌子。		
+Dutch	形容词	荷兰的	{{c1::Dutch}} mills and tulips are some of the best-known icons of Holland.	荷兰的风车和郁金香是荷兰部分最著名的象征。		
+occasions	名词, 复数	场合	We have stayed in this hotel on two separate {{c1::occasions}}.	我们在两种不同场合下住过这家酒店。		
+wizard	名词, 单数	巫师	"He's a computer {{c1::wizard}}."	他是电脑奇才。		
+cigarette	名词, 单数	香烟	How old were you when you had your first {{c1::cigarette}}?	你第一次抽烟几岁？		
+dental	形容词	牙齿的	Do you have any {{c1::dental}} floss?	你有没有牙线？		
+duration	名词, 单数	期间	The average {{c1::duration}} for this type of treatment is five months.	这种治疗的平均期间为五个月。		
+residence	名词, 单数	居住地	How do I register my place of {{c1::residence}} and obtain a {{c1::residence}} permit?	我要如何登记居住地并拿到居留证？		
+genetics	名词, 单数	遗传学	"Gregor Mendel is known as the ""father of modern {{c1::genetics}}""."	Gregor Mendel被称为“现代遗传学之父”。		
+thread	名词, 单数	主题帖	Please start a new {{c1::thread}} for this topic.	关于这个话题请另开主题帖。		
+boundaries	名词, 复数	边界、界线	Love knows no {{c1::boundaries}}.	爱没有界限。		
+rangers	名词, 复数	巡逻员、巡查员	Park {{c1::rangers}} supervise and manage national parks.	公园巡查员负责监督和管理国家公园。		
+counts	动词, 第三人称单数	有价值、有重要性	If you remember that every customer {{c1::counts}}, then the quality of service increases.	如果你记得每位顾客都有价值，服务的品质便会提升。		
+parliamentary	形容词	国会的	Only citizens are allowed to vote in {{c1::parliamentary}} elections.	只有公民才能在国会选举中投票。		
+medal	名词, 单数	奖牌	You deserve a gold {{c1::medal}} for all of your hard work this month!	因为这个月的所有辛勤工作，你应得一块金牌。		
+tap	名词, 单数	踢踏舞	"Do you have any women's {{c1::tap}} shoes available?"	你们有卖女用的踢踏舞鞋吗？		
+assurance	名词, 单数	保证	Quality control and quality {{c1::assurance}} are parts of quality management.	质量控制和质量保证是质量管理的一部分。		
+healing	名词, 单数	康复	Unfortunately, there is nothing we can do to speed up the {{c1::healing}}.	很遗憾，我们没办法加快康复的速度。		
+expense	名词, 单数	代价	They all had a good laugh at my {{c1::expense}}.	他们都对我幸灾乐祸。		
+eternal	形容词	永恒的	You have my {{c1::eternal}} gratitude.	我这辈子都会感激你。		
+exterior	noun adj	外部的	I bought a new helmet but failed to see a tiny crack on its {{c1::exterior}}.	我买了顶新的安全帽，可是没注意到外表有个小裂缝。		
+intensity	名词, 单数	强度	Typhoon {{c1::intensity}} in the Pacific region has increased since the 1970s.	太平洋地区的台风强度自1970年代以来有所加强。		
+bolt	名词, 单数	闪电	I managed to capture a beautiful lightning {{c1::bolt}} in my photo.	我成功在照片中捕捉到一道漂亮的闪电。		
+psychiatry	名词, 单数	精神病学	Medical doctors specializing in {{c1::psychiatry}} can treat serious mental disorders.	专攻精神病学的医生能治疗严重的精神疾病。		
+deliberately	副词	故意地	The police have confirmed that the fire was started {{c1::deliberately}}.	警察已确认那起火灾是人为引起的。		
+comprises	动词, 第三人称单数	构成、组成	The United States {{c1::comprises}} 50 states.	美国由50个州组成。		
+oasis	名词, 单数	在枯燥的事物中使人感到愉悦的事	Our agency is helping create an {{c1::oasis}} in the current desert of news.	我们报社正帮助在当前的新闻沙漠中创造一片绿洲。		
+mole	名词, 单数	痣	Is that a freckle or a {{c1::mole}}?	那是雀斑还是痣啊？		
+distinctive	形容词	有特色的、与众不同的	This band has a very {{c1::distinctive}} sound.	这乐团有着相当与众不同的声音。		
+portal	名词, 单数	门户网站	Check your grades and attendance by logging into our student {{c1::portal}}.	登录我们的学生门户网站，查看你的成绩和出勤。		
+accordingly	副词	相应的	If you are rude to others, expect to be treated {{c1::accordingly}}.	如果你对别人粗鲁，你也会受到一样的对待。		
+symphony	名词, 单数	交响乐	"I think Beethoven's ninth {{c1::symphony}} is incredible."	我觉得贝多芬的第九交响曲很了不起。		
+transactions	名词, 复数	交易	"It's important to maintain accurate records of all business {{c1::transactions}}."	留下所有交易纪录是很重要的。		
+safari	名词, 单数	游猎、探险	Keeping quiet will increase your chance of seeing animals while on {{c1::safari}}.	在东非游猎时保持安静会增加你看到动物的机会。		
+mob	名词, 单数	混杂的人群	If you want to avoid a {{c1::mob}}, then go to the shop early in the morning!	如果你想要避开混杂的人群，那么就一大早去商店。		
+hospitality	名词, 单数	殷勤待客；好客	Thank you for your {{c1::hospitality}}.	谢谢你的盛情款待。		
+chronic	形容词	慢性的	He has chronic daily {{c1::headaches}}.	他的慢性头痛每天发作。		
+barn	名词, 单数	谷仓；牲口棚	The restaurant is in an old converted {{c1::barn}} from the 19th century.	那餐馆是一个19世纪的旧谷仓改造的。		
+maple	名词, 单数	枫树	The Canadian province of Quebec is the largest producer of {{c1::maple}} syrup.	加拿大魁北克省是枫糖浆的最大产地。		
+choir	名词, 单数	合唱团	Our {{c1::choir}} practises Thursday nights.	我们合唱团每周四晚上练习。		
+buzz	名词, 单数	愉悦	She gets a {{c1::buzz}} from drinking one beer.	她喝一罐啤酒就会有飘飘然的感觉。		
+drain	名词, 单数	排水、下水道	Cooking oil and grease should not be poured down the {{c1::drain}}.	食用油和油脂不可以倒入下水道。		
+bachelor	名词, 单数	单身汉	Planning the {{c1::bachelor}} party traditionally falls to the best man.	单身派对传统以来都是由伴郎策划的。		
+rehabilitation	名词, 单数	康复	The {{c1::rehabilitation}} center helps people through difficult periods.	康复中心帮助人们度过难关。		
+cluster	名词, 单数	集群	A&nbsp;{{c1::cluster}}&nbsp;is a small group of people or things	集群是一小群人或事物		
+vintage	形容词	年代久远的	Another favorite habit of mine is going through {{c1::vintage}} magazines to find fun ads.	我的另一个爱好是翻看古董杂志找有趣的广告。		
+trek	名词, 单数	跋涉	"It's a three-hour {{c1::trek}} to the station."	到车站要走整整三小时。		
+stall	名词, 单数	摊位	I bought a hot dog from the food {{c1::stall}}.	我从小吃摊买了个热狗。		
+scent	名词, 单数	气味、香味	This {{c1::scent}} reminds me of my grandmother.	这味道让我想起了我奶奶。		
+elaborate	形容词	详尽的	"An initial statement for a business plan doesn't have to be very {{c1::elaborate}}."	一份商业策划的初步声明不需要过于详尽。		
+polish	动词, 原形	改进, 擦亮	You need to {{c1::polish}} up your French.	你得加强你的法语。		
+promising	形容词	有前途的	Many parents believe that academic excellence equals a {{c1::promising}} future.	许多家长相信学业优秀等于有前途的未来。		
+habitat	名词, 单数	栖息地	Every species has its own natural {{c1::habitat}}.	所有物种都有其天然栖息地。		
+encyclopedia	名词, 单数	百科全书	Both of his essays were published in that famous {{c1::encyclopedia}} of finance.	他的两篇短文发表于那本着名的金融百科全书。		
+maternity	名词, 单数	产科	The following document contains links to local {{c1::maternity}} hospitals.	以下文件包含当地产科医院的链接。		
+strict	形容词	严格的	My dad has always been very {{c1::strict}} with me.	我爸对我一直都很严格。		
+directorate	名词, 单数	署	The EU has a special {{c1::directorate}} for culture.	欧盟有一个专门的文化署。		
+optical	adj	视觉的	{{c1::optical}} illusions form a crucial part of many magic tricks.	视觉上的错觉是许多魔术手法的关键部分。		
+variation	noun	变体	"It's a simple {{c1::variation}} on a classic recipe."	这是把经典食谱简单变化了一下。		
+saviour	noun	救助者、拯救者	The {{c1::saviour}} of the company was handsomely rewarded by the CEO.	该公司的拯救者受到总裁的慷慨回报。		
+gum	noun	牙龈	Smoking can cause dental and {{c1::gum}} problems.	吸烟会造成牙齿和牙龈问题。		
+acute	adj	敏锐的	She has an {{c1::acute}} sense of smell.	她有敏锐的嗅觉。		
+preserved	adj	受保护的	Today, one wall of the clock tower is still partly {{c1::preserved}}.	如今，钟塔的一面墙仍部分保留。		
+snap	verb	断裂并发出尖利声音	"I'm afraid the branch of this tree will {{c1::snap}} if I put too much weight on it."	我担心如果我放了太多重量在这棵树上，树枝会啪的一声断裂。		
+furthermore	adv	此外	"He borrowed my car without asking. {{c1::Furthermore}}, he got a flat tyre and didn't even tell me."	他没有先问过我就把车借走了。而且他把车开到爆胎，还没跟我说。		
+rally	noun	群众集会	Students here started a {{c1::rally}} to support the movement against economic inequality.	这里的学生已开始集会声援反对经济不平等的运动。		
+faithful	adj	忠诚的	They have been married for 30 years and have always been {{c1::faithful}} to each other.	他们已经结婚30年了，一直都对彼此忠诚。		
