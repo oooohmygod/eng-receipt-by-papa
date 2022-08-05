@@ -12,6 +12,7 @@
 ### step 0 （理工男就是要从0开始数起）
 
 - 下载&&安装Anki：[按我！！！](https://youtu.be/dQw4w9WgXcQ)
+  - [Anki官网](https://apps.ankiweb.net/)
 
 ### step 1 可选但*强烈建议*
 
