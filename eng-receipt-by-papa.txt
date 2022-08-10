@@ -84,12 +84,12 @@ trauma	noun	创伤	She shows signs of psychological {{c1::trauma}}.	她出现心
 siblings	noun 複數	兄弟/姐妹	"<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">She wonders if they’re half&nbsp;</span>{{c1::siblings}}&nbsp;<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">with only a mother in common too.</span>"	她想知道他們是不是同母異父的兄弟姐妹		
 absorbent	Adj.	吸水的	"<span style=""color: rgb(29, 42, 87);"">After repeated washing towels become less&nbsp;</span>{{c1::absorbent}}<span style=""color: rgb(29, 42, 87);"">.</span>"	重複使用的毛巾吸水能力下降		
 assess	verb 原形	評估	"<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">They agreed to meet again at one to&nbsp;</span>{{c1::assess}}<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">&nbsp;the situation.</span>"	"<span style=""color: rgb(51, 51, 51);"">他們同意在一點鐘見面以評估形勢。</span>"		
-constituted	verb 過去式	構成、造成	There was no magisterial district in all of South Africa where whites&nbsp;{{c1::constituted}}&nbsp;a majority of residents.	整個南非沒有一個轄區是以白人為主構成的。		
+constituted	verb 過去式	構成、造成	There was no district in South Africa where whites&nbsp;{{c1::constituted}}&nbsp;a majority of residents.	南非沒有一個區域是以白人為主構成的。		
 derive	verb 過去式	源自、衍生	"Almost all the world's plastic is&nbsp;{{c1::derived}}&nbsp;from high-polluting oil and gas."	世界上幾乎所有塑料都來自高汙染石油與天然氣		
 implication	noun	含義、影響、暗示	Suddenly the true&nbsp;{{c1::implication}} of what Holmes had done became clear to him.	突然間，他明白了Holmes所作所爲背後的意涵。		
 premise	noun verb	前提	If the&nbsp;{{c1::premise}}&nbsp;is true, then the conclusion must be true	如果前設是正確的，那麽結論也是對的。		
 provisions	noun 複數	供應、食物	"""We'll provide you with fresh mounts and&nbsp;{{c1::provisions}},"" her brother promised."	“我們會爲你提供新的坐騎和補給。”她的兄弟承諾道。		
-provisions	noun 複數	條款	The tax&nbsp;{{c1::provisions}}&nbsp;in the deal are sound on a policy level and smart on a political one.	交易中的稅收條款在政策層面是合理的，在政治層面上是明智的。		
+provisions	noun 複數	供應、食物	"""We'll provide you with fresh mounts and&nbsp;{{c1::provisions}},"" her brother promised."	“我們會爲你提供新的坐騎和補給。”她的兄弟承諾道。		
 vary	verb	改變	His moods&nbsp;{{c1::vary}}&nbsp;depending on the weather	他的心情依據天氣而改變。		
 virtually	adverb	幾乎	The strike&nbsp;{{c1::virtually}}&nbsp;paralyzed the city	罷工幾乎癱瘓了這座城市		
 vital	adj	重要、必要	The doctors can do nothing for the president but monitor his&nbsp;{{c1::vital}}&nbsp;signs.	醫生除了檢測他的生命體徵外，無能爲力。		
@@ -101,7 +101,7 @@ equate	verb	使……相等	You cannot&nbsp;{{c1::equate}}&nbsp;success in finan
 genuine	adj	真實、真誠	She shared her bitterness and sorrow, and it must have sounded&nbsp;{{c1::genuine}}.	她開始講起箇中辛酸，聽起來非常真實。		
 intervention	noun	介入	In each case, human {{c1::intervention}}&nbsp;seems to be quite efficacious.	在任何情況下，人爲干預都相當有效。		
 judicial	adj	公正的	Film critics are expected to give {{c1::judicial}} reviews.	影評人應當給出公正的評價。		
-judicial	adj	司法的	I have faith in you, and faith in the American&nbsp;{{c1::judicial}}&nbsp;system.	我相信你，也相信美國的司法系統。		
+judicial	adj	公正的	Film critics are expected to give {{c1::judicial}} reviews.	影評人應當給出公正的評價。		
 resided	verb （過去式）	屬於、居住	I could feel the place inside of me where she had&nbsp;{{c1::resided}}.	我能感受到她曾在我心中的位置。		
 statutory	adj	受規管的、法定的	Cameron told MPs he was opposed to any&nbsp;{{c1::statutory}}&nbsp;control.	卡梅隆告訴議員他反對任何法規限制。		
 tendencies	noun 單數	傾向	Freud linked paranoia with homosexual&nbsp;{{c1::tendencies}}.	佛洛依德將偏執與同性戀傾向聯係起來。		
@@ -121,7 +121,7 @@ bucket	noun	桶	Pour some water in the {{c1::bucket}}.	倒点水到桶里面。
 butcher	noun	屠夫	"You can get the freshest meat at the {{c1::butcher}}'s if you go to the market early."	你如果早点去菜市场，可以在屠夫的肉铺买到最新鲜的肉。		
 cord	noun	电源线	The {{c1::cord}} is plugged into the wall.	电源线插在墙上。		
 eclipse	verb	蚀	The solar {{c1::eclipse}} was most visible from the northern hemisphere.	日蚀在北半球看得最清楚。		
-scores	verb	三单	得分	He shoots, he {{c1::scores}}!	他一射门就得分！		
+scores	动词, 第三人称单数	得分	He shoots, he {{c1::scores}}!	他一射门就得分！		
 privilege	noun	特别给予的好处或待遇	Managers receive a company car and higher salary as a {{c1::privilege}}.	经理收到公司的小车和更高的薪水作为特殊待遇。		
 offence	noun	见怪、冒犯	No {{c1::offence}}. – None taken.	“没有冒犯你的意思。” “我没介意。”		
 annex	noun	侧楼、附属建筑	An {{c1::annex}} was added to the hotel to meet the demand for banquets.	饭店加建了一栋侧楼，以满足举办宴会的需求。		
@@ -149,7 +149,7 @@ genetics	noun	遗传学	"Gregor Mendel is known as the ""father of modern {{c1::
 thread	noun	主题帖	Please start a new {{c1::thread}} for this topic.	关于这个话题请另开主题帖。		
 boundaries	noun, 复数	边界、界线	Love knows no {{c1::boundaries}}.	爱没有界限。		
 rangers	noun, 复数	巡逻员、巡查员	Park {{c1::rangers}} supervise and manage national parks.	公园巡查员负责监督和管理国家公园。		
-counts	verb	三单	有价值、有重要性	If you remember that every customer {{c1::counts}}, then the quality of service increases.	如果你记得每位顾客都有价值，服务的品质便会提升。		
+counts	动词, 第三人称单数	有价值、有重要性	If you remember that every customer {{c1::counts}}, then the quality of service increases.	如果你记得每位顾客都有价值，服务的品质便会提升。		
 parliamentary	adj	国会的	Only citizens are allowed to vote in {{c1::parliamentary}} elections.	只有公民才能在国会选举中投票。		
 medal	noun	奖牌	You deserve a gold {{c1::medal}} for all of your hard work this month!	因为这个月的所有辛勤工作，你应得一块金牌。		
 tap	noun	踢踏舞	"Do you have any women's {{c1::tap}} shoes available?"	你们有卖女用的踢踏舞鞋吗？		
@@ -162,7 +162,7 @@ intensity	noun	强度	Typhoon {{c1::intensity}} in the Pacific region has increa
 bolt	noun	闪电	I managed to capture a beautiful lightning {{c1::bolt}} in my photo.	我成功在照片中捕捉到一道漂亮的闪电。		
 psychiatry	noun	精神病学	Medical doctors specializing in {{c1::psychiatry}} can treat serious mental disorders.	专攻精神病学的医生能治疗严重的精神疾病。		
 deliberately	adv	故意地	The police have confirmed that the fire was started {{c1::deliberately}}.	警察已确认那起火灾是人为引起的。		
-comprises	verb	三单	构成、组成	The United States {{c1::comprises}} 50 states.	美国由50个州组成。		
+comprises	动词, 第三人称单数	构成、组成	The United States {{c1::comprises}} 50 states.	美国由50个州组成。		
 oasis	noun	在枯燥的事物中使人感到愉悦的事	Our agency is helping create an {{c1::oasis}} in the current desert of news.	我们报社正帮助在当前的新闻沙漠中创造一片绿洲。		
 mole	noun	痣	Is that a freckle or a {{c1::mole}}?	那是雀斑还是痣啊？		
 distinctive	adj	有特色的、与众不同的	This band has a very {{c1::distinctive}} sound.	这乐团有着相当与众不同的声音。		
@@ -204,3 +204,85 @@ snap	verb	断裂并发出尖利声音	"I'm afraid the branch of this tree will {
 furthermore	adv	此外	"He borrowed my car without asking. {{c1::Furthermore}}, he got a flat tyre and didn't even tell me."	他没有先问过我就把车借走了。而且他把车开到爆胎，还没跟我说。		
 rally	noun	群众集会	Students here started a {{c1::rally}} to support the movement against economic inequality.	这里的学生已开始集会声援反对经济不平等的运动。		
 faithful	adj	忠诚的	They have been married for 30 years and have always been {{c1::faithful}} to each other.	他们已经结婚30年了，一直都对彼此忠诚。		
+dart	noun	飞镖	My brother John is a champion {{c1::dart}} player.	我哥哥John是飞镖冠军选手。		
+peel	noun	果皮	Garnish the cocktail with a twist of lemon {{c1::peel}}.	用一条柠檬皮装饰鸡尾酒。		
+cemetery	noun	墓园	Many tourists visit that famous {{c1::cemetery}} for its incredible sculptures.	许多游客冲着巧夺天工的雕像造访那座有名的墓园。		
+tribe	noun	部落、部族	The {{c1::tribe}} was the center of Native American society.	部落是美洲原住民社会的中心。		
+ancestors	noun, 复数	祖先	My {{c1::ancestors}} settled somewhere in Australia in the 19th century.	我的祖先在19世纪定居澳大利亚的某个地方。		
+inspectorate	noun	检查负责人	The labor {{c1::inspectorate}} will review the circumstances surrounding the reported event.	该劳动检查负责人将检查报告事件周围的状况。		
+hint	noun	细微的迹象	I like how this dark chocolate is slightly bitter with only a {{c1::hint}} of sweetness.	我喜欢这款黑巧克力，稍微有点苦，又只带一点点甜。		
+triumph	noun	胜利、成功	His greatest {{c1::triumph}} was winning the gold medal.	他最大的成就是赢得金牌。		
+sack	noun	袋	I need to buy a travel {{c1::sack}} to lock my backpack in before putting it on a plane.	我得在把背包放上飞机前买个旅行袋把它锁进去。		
+harsh	adj	令人不舒服的；严酷的	Russia is famous for its {{c1::harsh}} winter weather.	俄罗斯以其严酷的冬季气候而闻名。		
+prejudice	noun	偏见	A judge must not show {{c1::prejudice}} against the accused.	法官不得表现出对被告有偏见。		
+ambition	noun	抱负、志向	His {{c1::ambition}} is to become a doctor, so he studies every day.	他的志向是当医生，所以他每天学习。		
+dial	verb	拨打	In case of an emergency, {{c1::dial}} 999.	紧急情况下拨打999。		
+gala	noun	节日庆祝	The event finished with the traditional {{c1::gala}} dinner.	活动以传统的庆祝晚宴结束。		
+orthodox	专有名词	正教	"I'm reading about the similarities between Eastern {{c1::Orthodox}} and Roman Catholics."	我正在阅读关于东正教和罗马天主教的相同点。		
+preliminary	adj	初步的	{{c1::Preliminary}} findings show that the drug could help patients with skin cancer.	初步发现这药物或能帮助皮肤癌患者。		
+tropical	adj	热带	Most {{c1::tropical}} fruits have a sweet taste.	大多数热带水果有一种甜甜的味道。		
+crawl	verb	爬、爬行	Babies learn to {{c1::crawl}} before they can walk.	婴儿会走路之前都学爬。		
+salvation	noun	救赎、解脱	Music was her {{c1::salvation}} when she was feeling sad and lonely.	当她感到悲伤和孤独的时候，音乐就是她的解脱。		
+panting	verb, 现在分词	喘气	He started {{c1::panting}} in front of the audience due to stage fright.	由于怯场，他开始在观众面前喘气。		
+fellowship	noun	团契	She goes to church for community and {{c1::fellowship}}.	她去教堂参加集会和团契。		
+yield	verb	产生	"Positive expectations shouldn't {{c1::yield}} negative results."	正面的期望不应该产生负面的结果。		
+distress	noun	忧虑	Meditation has proven to help relieve emotional {{c1::distress}}.	冥想被证实有助于减轻情绪忧虑。		
+tolerate	verb	容忍	Amusement parks are fun if you can {{c1::tolerate}} long lines.	如果你能忍受排长队，游乐园便好玩。		
+stark	adj	无装饰的	The conference speaker gave a {{c1::stark}} description of the current situation.	该与会讲者对当前形势做了毫无遮掩的描述。		
+hazel	adj	淡褐色的	{{c1::Hazel}} eyes are not as common as brown eyes.	淡褐色的眼睛不像褐色的那么常见。		
+peer	noun	同等、同辈的人	Our director is a sociable person who treats everyone as her {{c1::peer}}.	我们的主管是个擅长社交的人，将每个人都当作同辈。		
+tragic	adj	悲惨的、可悲的	The situation is not as {{c1::tragic}} as it seems.	情况并不像看上去的那样惨。		
+adapted	verb, 过去式 和 过去分词 同形	改写、改编	The presentation can be edited and {{c1::adapted}} to suit individual needs.	简报可以作编辑和改编以适合个人需要。		
+grip	noun	紧抓、紧握	I lost my {{c1::grip}} on the ladder when it started raining.	开始下雨时，我的手在梯子上打滑了。		
+intent	adj	专心的、渴望的	"She was so {{c1::intent}} on pursuing her goals that there was no doubt she'd succeed."	她如此专心追求她的目标，毫无疑问她会成功。		
+quartet	noun	四重奏	"Vivaldi's ""The Four Seasons"" is possibly the most performed string {{c1::quartet}} piece."	Vivaldi的《四个季节》可能是被演奏得最多的弦乐四重奏作品。		
+fond	adj	深情的、珍爱的	Seeing the old country house again brought back many {{c1::fond}} memories.	再次看到那座乡间老房子，让我想起了许多美好的回忆。		
+indistinct	adj	不清楚的，模糊的	As the night fell, everything grew distant and {{c1::indistinct}}.	随着夜幕降临，一切变得遥远而模糊不清。		
+farewell	noun	告别、送别	We threw a {{c1::farewell}} party for Helen before she left.	我们在Helen离开前为她办了个送别派对。		
+blend	noun	混合物	This wool {{c1::blend}} sweater is cheaper and feels softer than 100% wool.	这种羊毛混纺的毛衣更便宜，比纯羊毛摸上去更柔软。		
+greedy	adj	贪心	"You took all the candy – don't be so {{c1::greedy}}!"	你拿走了所有的糖果——别那么贪心！		
+instinct	noun	本能	Nearly all organisms have a strong {{c1::instinct}} for survival.	几乎所有的生物都有强烈的求生本能。		
+tolerance	noun	宽容、忍耐力	Being a parent requires patience and {{c1::tolerance}}.	为人父母需要耐心和宽容。		
+beaver	noun	海狸	Local wildlife includes species not native to the area, such as the {{c1::beaver}}.	当地野生生物包括非本地区土生土长的物种，比如海狸。		
+ritual	noun	仪式	Drinking coffee is considered a {{c1::ritual}} in some cultures.	喝咖啡在某些文化中被视为一种仪式。		
+counsel	noun	律师、法律顾问	The couple hired legal {{c1::counsel}} to help them with their immigrant visa applications.	那对夫妻雇了法律顾问帮他们申请移民签证。		
+poll	noun	民意调查	If you wish to make your opinion heard, take the anonymous {{c1::poll}} below.	如果你想让你的意见被听到，那就做下面的匿名民意调查。		
+groom	noun	新郎	"I'd like to propose a toast to the bride and {{c1::groom}}."	我想向新郎新娘敬酒。		
+anticipated	verb, 过去式	期望、预料	Unfortunately, the project was far less successful than {{c1::anticipated}}.	不幸的是，项目比预期的要远远不成功。		
+spice	noun	香料	There is a lot of {{c1::spice}} in this curry.	这个咖喱里有很多香料。		
+clan	noun	家族，宗族；集团、帮会	I look forward to camping with the {{c1::clan}} next week.	我期待下周和家族去露营。		
+peacock	noun	孔雀	He looks as proud as a {{c1::peacock}} in this photo with his newborn son!	抱着他刚出生的儿子，他在这张照片中看上去骄傲得像只孔雀！		
+comparative	adj	比较而言的，相对的	The project was finished with {{c1::comparative}} ease.	那个项目完成得相对轻松。		
+scarlet	adj	猩红的、鲜红的	"The company's name is written in gold letters on a {{c1::scarlet}} background."	公司的名字用金色字写在鲜红的背景上。		
+layman	noun	外行人	"I don't know how to explain to a {{c1::layman}}."	我不知道要怎麽和外行人解釋。		
+hostile	adj	不利的、不适宜的	Deserts are {{c1::hostile}} places for animals to live.	沙漠是不适宜动物生存的地方。		
+stimulate	verb	刺激	Good sunlight will {{c1::stimulate}} plant growth.	充足的日照会刺激植物生长。		
+handful	noun	一把	I usually grab a {{c1::handful}} of nuts when I need a snack.	当我想吃零食的时候，我通常抓一把坚果。		
+precision	noun	准确、精确	The plan was executed with great {{c1::precision}}.	计划执行得非常精确。		
+gesture	noun	打手势	She made a {{c1::gesture}} and the waiter came to the table.	她打了个手势，服务员就走到桌前。		
+rational	adj	理性的	Problem solving and {{c1::rational}} decision making are necessary skills for this job.	解决问题和理性决策是这份工作所需的必要技能。		
+pint	noun	品脱	I ordered a {{c1::pint}} of beer at the bar.	我在酒吧点了一杯啤酒。		
+plaza	noun	广场	The {{c1::plaza}} includes a theatre and several shops and eating establishments.	该广场包括一间剧院、几间商铺和餐馆。		
+glimpse	noun	瞥一眼、看一眼	I got a {{c1::glimpse}} of the document on his computer.	我瞥了一眼他电脑上的文件。		
+cupboard	noun	橱柜	There is a can of soup in the {{c1::cupboard}}.	橱柜里有一罐汤。		
+dip	verb	轻微下降	Gasoline prices often {{c1::dip}} after summer.	汽油价格通常在夏季过后下降。		
+attribute	noun	特质	Trustworthiness is a desirable {{c1::attribute}} in any person.	信用是任何人身上都值得拥有的特质。		
+misery	noun	痛苦、苦难	Some people argue that neither happiness nor {{c1::misery}} exists.	有些人争论说幸福和苦难都不存在。		
+intimate	adj	亲密的	Both venues provide a very relaxed and {{c1::intimate}} atmosphere.	两个地方都提供非常放松和亲密的氛围。		
+notable	adj	显著的	The results, with one {{c1::notable}} exception, have been excellent.	除了有一个显著的例外，结果都非常好。		
+sheer	adj	完全的、彻底的	We have achieved our goals through hard work and {{c1::sheer}} determination.	透过努力和坚定的决心，我们已经达成了目标。		
+wholly	adv	完全地	The validity of his argument depends {{c1::wholly}} upon the alibi of the key witness.	他的论据是否确凿完全取决于关键证人的不在场证据。		
+brigade	noun	队、组	He started volunteering in the local fire {{c1::brigade}}.	他开始在当地消防队做志愿者。		
+stiff	adj	僵硬的	I slept in an odd position and now my neck feels {{c1::stiff}}.	我用一个奇怪的姿势睡了一觉，现在我感觉脖子僵硬。		
+karma	noun	业；因果报应	"Do you believe that good deeds contribute to good {{c1::karma}}? – I don't know..."	“你相信做好事会有好报吗？” “我不知道……”		
+insult	noun	侮辱、无礼	Travelers can cause {{c1::insult}} when they fail to learn local customs.	当游客未能学习当地风俗时，可能会造成不敬。		
+feast	noun	盛宴、宴会	In the US, Thanksgiving and Christmas are usually celebrated with a large {{c1::feast}}.	在美国，感恩节和圣诞节通常以盛宴庆祝。		
+needle	noun	针头	The nurse gave me the vaccination by sticking a {{c1::needle}} in my arm.	护士将针头插进我的手臂，给我打疫苗。		
+synthetic	adj	合成的	This bag is made from {{c1::synthetic}} materials.	这个袋子是用合成材料做的。		
+archaeological	adj	考古学的	William Cunnington was the father of {{c1::archaeological}} excavation.	William Cunnington是考古挖掘之父。		
+pavilion	noun	亭、阁	The {{c1::pavilion}} at the zoo offers plenty of tables for large groups of visitors.	动物园里的亭子为大批游客提供了许多桌子。		
+archer	noun	弓箭手	Every man was an {{c1::archer}} in medieval England.	在英国中古世纪，每个男人都是弓箭手。		
+petrol	noun	汽油	No conventional {{c1::petrol}} engine can compete with the new electric models.	传统的汽油机无一能竞争得过新的电子模型。		
+spoil	verb	毁掉、破坏、糟蹋	Rainy weather could {{c1::spoil}} our vacation.	下雨的天气会搞砸我们的假期。		
+shaft	noun	束	A {{c1::shaft}} of light cut through the darkness as the peace treaty was being signed.	当和平协议正在签署时，一束光线穿透了黑暗。		
+delicate	adj	得当的、得体的	Workplace conflict requires very {{c1::delicate}} handling.	工作场所的冲突需要处理得当。		
