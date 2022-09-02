@@ -4,7 +4,7 @@ reign	verb	统治、当政	How long did Queen Victoria {{c1::reign}}?	维多利�
 gown	noun	长袍、礼服	My sister is planning her wedding and making her own bridal {{c1::gown}}.	我姐姐正在策划自己的婚礼并亲手做自己的婚纱。		
 municipality	noun	直辖市、自治市	The {{c1::municipality}} has its own water supply system.	该市有自己的供水系统。		
 contempt	noun	轻视、蔑视	The doctor is a kind person who has never shown {{c1::contempt}} for anyone.	那个医生是个善良的人，从来没有轻视过任何人。		
-spontaneous	adj	自发的、主动的	{{c1::spontaneous}} people do things without planning.	随性的人做事没有规划。		
+spontaneous	adj	自发的、主动的	{{c1::Spontaneous}} people do things without planning.	随性的人做事没有规划。		
 coalition	noun	联合	We need a {{c1::coalition}} of working class organizations to modernize the labor market.	我们需要联合工人阶级组织来使劳动市场现代化。		
 theology	noun	神学	Our academic interests include philosophy, {{c1::theology}}, and ancient history.	我们的学术兴趣包括哲学、神学和古代史。		
 chronicle	noun	记事、叙述	Her {{c1::chronicle}} of the Arctic expedition depicts life in extreme conditions.	她的北极探险记事描绘了极端条件下的生命。		
@@ -25,7 +25,7 @@ fig	noun	无花果	The unique-tasting {{c1::fig}} has several health benefits.	�
 caravan	noun	露营车、大篷车	Campers usually prefer to clean their {{c1::caravan}} on site.	露营者通常喜欢现场清理营车。		
 moderate	adj	适度的	I only drink a {{c1::moderate}} amount of alcohol.	我只适量饮酒。		
 basin	noun	盆	Wash the vegetables in a large {{c1::basin}}.	把蔬菜放到一个大盆子里洗。		
-lean	adj	瘦的	{{c1::lean}} meat and eggs are good sources of protein.	瘦肉和蛋是蛋白质的良好来源。		
+lean	adj	瘦的	{{c1::Lean}} meat and eggs are good sources of protein.	瘦肉和蛋是蛋白质的良好来源。		
 voyage	noun	旅途、旅程	Are you ready for a two-week {{c1::voyage}} on the sea?	你准备好度过两星期的海上航程了吗？		
 bust	verb	打破、打碎	You will {{c1::bust}} your camera if you drop it from up here.	如果你把相机从这上面掉下去会摔碎的。		
 beacon	noun	灯塔、烽火	The pilot relied on the {{c1::beacon}} for guidance in the dark.	飞行员在黑暗中依靠信号灯导航。		
@@ -36,7 +36,7 @@ premier	adj	首要的	"This is the island's {{c1::premier}} hotel."	这间饭店
 trustees	noun, 复数	受托人	Our financial advisors and {{c1::trustees}} in bankruptcy are ready to help you.	我们的理财顾问和破产受托人随时都可以帮助您。		
 veterinary	adj	兽医的	I studied {{c1::veterinary}} medicine for three years.	我读了三年兽医学。		
 pier	noun	码头	The first recorded {{c1::pier}} in England was opened in 1814.	英格兰有历史记载的第一座码头在1814年开放。		
-dame	noun	女爵士	{{c1::dame}} is a noble title.	女爵士是贵族的封号。		
+dame	noun	女爵士	{{c1::Dame}} is a noble title.	女爵士是贵族的封号。		
 beaten	adj	常走的、久经践踏的	"It's just far enough off the {{c1::beaten}} track to feel like an adventure."	这里人迹罕至，偏远到感觉像是一次探险。		
 hay	noun	干草	Spring is usually the peak season for {{c1::hay}} fever.	春季通常是花粉症的高发季节。		
 rip	noun	裂缝	Your shirt has a {{c1::rip}} in it.	你的衬衫上有裂缝。		
@@ -55,7 +55,7 @@ distinct	adj	显著的、明显的	"There's a {{c1::distinct}} smell of burning 
 creek	noun	小溪	The {{c1::creek}} dries up every summer.	这条小溪每年夏天都会干涸。		
 surgeon	noun	外科医生	He is a plastic {{c1::surgeon}}.	他是整型外科医生。		
 spike	noun	峰值	I see a large {{c1::spike}} in the graph from yesterday.	我在昨天的图表上看到一个大的峰值。		
-amber	noun	琥珀	"{{c1::amber}} necklaces are believed to relieve a baby's teething pains."	有人相信琥珀项链可以缓解婴儿长牙的疼痛。		
+amber	noun	琥珀	"{{c1::Amber}} necklaces are believed to relieve a baby's teething pains."	有人相信琥珀项链可以缓解婴儿长牙的疼痛。		
 willow	noun	柳树	"What tree is this? – It's an almond {{c1::willow}}."	“这是什么树？” “这是毛柳。”		
 blade	noun	刀刃	The knife {{c1::blade}} is really dull.	这菜刀的刀刃真的很钝。		
 sailing	noun	航行	"I went {{c1::sailing}} once, but I didn't like it."	我航行过一次，但并不喜欢。		
@@ -70,9 +70,9 @@ acres	noun, 复数	英亩	The villagers worked together to clear one hundred {{c
 rental	noun	出租	"Is this car yours? – No, it's a {{c1::rental}}."	“这是你的车吗？” “不是，这是租的。”		
 waterways	noun, 复数	水路	Cities have historically grown along major shipping routes and {{c1::waterways}}.	城市历来都沿着航线和水路发展。		
 salmon	noun	三文鱼	Remove any bones from the {{c1::salmon}} and marinate it for 20 minutes.	将三文鱼去掉所有鱼刺，腌20分钟。		
-compost	noun	堆肥	{{c1::compost}} consists of various microorganisms that contribute to better plant growth.	堆肥含有各种有利于植物更好生长的微生物。		
+compost	noun	堆肥	{{c1::Compost}} consists of various microorganisms that contribute to better plant growth.	堆肥含有各种有利于植物更好生长的微生物。		
 wreck	noun	毁灭、失事	We saw an awful {{c1::wreck}} on the way home from school today.	今天从学校回家的路上我们看见了一起可怕的事故。		
-amateur	adj	业余的	{{c1::amateur}} photography is becoming increasingly popular in our community.	业余摄影在我们小区正变得越来越流行。		
+Amateur	adj	业余的	{{c1::amateur}} photography is becoming increasingly popular in our community.	业余摄影在我们小区正变得越来越流行。		
 procurement	noun	采购	Our company seeks sustainable {{c1::procurement}} of wood and paper-based products.	我们公司寻求可持续采购的木质和纸质产品。		
 consensus	noun	意见一致	There is a general {{c1::consensus}} among scientists that climate change is happening.	科学家们有普遍共识，认为气候变化正在发生。		
 raid	noun	突袭、突击	Two soldiers were captured in a cross-border {{c1::raid}} last night.	两名士兵在昨晚的跨境突袭中被俘。		
@@ -162,7 +162,7 @@ intensity	noun	强度	Typhoon {{c1::intensity}} in the Pacific region has increa
 bolt	noun	闪电	I managed to capture a beautiful lightning {{c1::bolt}} in my photo.	我成功在照片中捕捉到一道漂亮的闪电。		
 psychiatry	noun	精神病学	Medical doctors specializing in {{c1::psychiatry}} can treat serious mental disorders.	专攻精神病学的医生能治疗严重的精神疾病。		
 deliberately	adv	故意地	The police have confirmed that the fire was started {{c1::deliberately}}.	警察已确认那起火灾是人为引起的。		
-comprises	动词, 第三人称单数	构成、组成	The United States {{c1::comprises}} 50 states.	美国由50个州组成。		
+comprises	动词, 第三人称单数	构成、包括	The United States {{c1::comprises}} 50 states.	美国由50个州组成。		
 oasis	noun	在枯燥的事物中使人感到愉悦的事	Our agency is helping create an {{c1::oasis}} in the current desert of news.	我们报社正帮助在当前的新闻沙漠中创造一片绿洲。		
 mole	noun	痣	Is that a freckle or a {{c1::mole}}?	那是雀斑还是痣啊？		
 distinctive	adj	有特色的、与众不同的	This band has a very {{c1::distinctive}} sound.	这乐团有着相当与众不同的声音。		
@@ -194,7 +194,7 @@ encyclopedia	noun	百科全书	Both of his essays were published in that famous 
 maternity	noun	产科	The following document contains links to local {{c1::maternity}} hospitals.	以下文件包含当地产科医院的链接。		
 strict	adj	严格的	My dad has always been very {{c1::strict}} with me.	我爸对我一直都很严格。		
 directorate	noun	署	The EU has a special {{c1::directorate}} for culture.	欧盟有一个专门的文化署。		
-optical	adj	视觉的	{{c1::optical}} illusions form a crucial part of many magic tricks.	视觉上的错觉是许多魔术手法的关键部分。		
+optical	adj	视觉的	{{c1::Optical}} illusions form a crucial part of many magic tricks.	视觉上的错觉是许多魔术手法的关键部分。		
 variation	noun	变体	"It's a simple {{c1::variation}} on a classic recipe."	这是把经典食谱简单变化了一下。		
 saviour	noun	救助者、拯救者	The {{c1::saviour}} of the company was handsomely rewarded by the CEO.	该公司的拯救者受到总裁的慷慨回报。		
 gum	noun	牙龈	Smoking can cause dental and {{c1::gum}} problems.	吸烟会造成牙齿和牙龈问题。		
@@ -286,3 +286,124 @@ petrol	noun	汽油	No conventional {{c1::petrol}} engine can compete with the ne
 spoil	verb	毁掉、破坏、糟蹋	Rainy weather could {{c1::spoil}} our vacation.	下雨的天气会搞砸我们的假期。		
 shaft	noun	束	A {{c1::shaft}} of light cut through the darkness as the peace treaty was being signed.	当和平协议正在签署时，一束光线穿透了黑暗。		
 delicate	adj	得当的、得体的	Workplace conflict requires very {{c1::delicate}} handling.	工作场所的冲突需要处理得当。		
+resounding	adj	震耳欲聾的	The answer is a {{c1::resounding}} yes.	答案毫無猶豫是Yes。		
+privileged	adj	保密的	Anything you said to me is {{c1::privileged}}.	你對我説的一切都是保密的。		
+bid	noun	投标、出价	I love this painting! – You should make a {{c1::bid}}.	“我爱这幅画！” “你应该出个价。”		
+inclusive	adj	内含的	The rent is £500, {{c1::inclusive}} of heating and electricity.	租金是500英镑，含暖气费和电费。		
+respectively	adv	分别、各自	Glasses of red and white wine cost £5 and £4, {{c1::respectively}}.	红酒杯和白酒杯分别是5英镑和4英镑。		
+throne	noun	王位	"The king's son succeeded him to the {{c1::throne}} of Denmark."	国王的儿子继承他登上丹麦的王位。		
+blanket	noun	毛毯、毛毡	Bring along a {{c1::blanket}} and your picnic basket.	带上一条毛毯和你的野餐篮		
+filthy	adj	肮脏的	We washed our car this weekend – it was {{c1::filthy}}!	我们这个周末把车洗了——车好脏！		
+sink	noun	水槽	"Just put the dishes in the {{c1::sink}} and I'll wash them later."	把餐盘放在水槽就好，我稍后洗。		
+mud	noun	泥巴	My car got stuck in the {{c1::mud}}.	我的车陷在泥巴中。		
+expedition	noun	探险、远征	Scott died while he was on an {{c1::expedition}} to the Antarctic in 1912.	Scott死于1912年的南极探险途中。		
+landlord	noun	房东	My {{c1::landlord}} is raising the rent by $100 a month.	我房东要涨租金每个月多100美金。		
+strain	verb	过滤	{{c1::Strain}} well, add sugar and lemon juice, and then glaze the cake with it.	过滤好了，加入糖和柠檬汁，然后给蛋糕浇上这个糖浆		
+collapse	verb	衰退、崩溃	Politicians argue and debate while the economy continues to {{c1::collapse}}.	政客们争执辩论，而经济则继续下滑。		
+twist	noun	转折、转变	This talk was quite boring. – They should add a fun {{c1::twist}} to engage more people.	“这个讲座挺无聊的。” “他们应该加点有趣的转折，让更多人参与。”		
+thereby	adv	从而、由此、藉此	Governments support the self-employed, {{c1::thereby}} reducing unemployment.	政府支持自雇者，藉此减少失业。		
+statue	noun	雕像、塑像	The {{c1::statue}} of the local hero stands right outside the city hall building.	当地英雄的塑像就立在市政府大楼外面。		
+conviction	noun	定罪	The court found him guilty of robbery, but he tried to appeal his {{c1::conviction}}.	法庭判定他犯抢劫罪，但他尝试对裁决进行上诉。		
+basil	noun	罗勒	We had a tomato-mozzarella salad garnished with {{c1::basil}} for dinner.	我们晚餐吃了西红柿和莫札瑞拉干酪加罗勒装饰的色拉		
+consortium	专有名词	联盟、协会、集团	This conference is sponsored by the {{c1::Consortium}} of European Research Libraries.	这个会议由欧洲研究图书馆联盟赞助。		
+coronation	noun	加冕	Soon after his {{c1::coronation}}, he declared war on the neighboring country.	他加冕之后随即宣布和邻国开战。		
+ware	noun	器具、物品	We created ceramic bathroom {{c1::ware}} at the workshop.	我们在工作坊创作了陶瓷浴室用品。		
+psychic	adj	通灵的	{{c1::Psychic}} readings were provided at the state fair for entertainment.	在州立博览会上有提供通灵解读以供消遣。		
+crops	noun, 复数	作物	The number of organic {{c1::crops}} in this region will increase next year.	这个地区的有机作物的数量将于明年增加。		
+hen	noun	母鸡	The rooster was dancing to attract a {{c1::hen}}.	公鸡正在起舞以吸引母鸡。		
+syndrome	noun	综合症	"She has Down's {{c1::syndrome}}."	她有唐氏综合症		
+mysterious	adj	神秘的	Stop being {{c1::mysterious}} and tell us what happened.	别神神秘秘的了，告诉我们发生了什么事。		
+laundry	noun	待洗衣物, 洗衣店	I have to do the {{c1::laundry}}.	我得洗衣服。		
+jurisdiction	noun	司法权	The English courts have no {{c1::jurisdiction}} over the crime he committed.	英格兰法院对他所犯的罪没有司法权		
+alter	verb	改变、更改	Do these new results mean that we will need to {{c1::alter}} the conclusion slightly?	这些新结果是否意味着我们将需要稍微改变结论？		
+tremendous	adj	极大的、强烈的	Thank you all for your {{c1::tremendous}} support.	谢谢你们的大力支持。		
+bitter	adj	苦的	"I'll stay with you till the {{c1::bitter}} end."	我会留下来和你拼到底。		
+pale	adj	苍白的	His face turned {{c1::pale}} when he heard the news.	当他听到消息时，他的脸变得惨白。		
+possess	verb	拥有、持有	You must {{c1::possess}} a valid passport to enter the country.	你必须持有有效护照才能进入该国。		
+mines	noun, 复数	矿井	Abandoned {{c1::mines}} and factories are potentially dangerous places.	废弃的矿井和工厂是有潜在危险的地方。		
+fetch	verb	拿来、取来	Could you {{c1::fetch}} my boots, please? – There you are, madam.	“能请你把我的靴子拿过来吗？” “给您，女士。”		
+amended	verb, 过去式	修订	The current constitution must be {{c1::amended}} and modified.	现有宪法必须进行修订和修改。		
+crescent	adj	新月、月牙	The moon formed a {{c1::crescent}} in the night sky.	月亮在夜空中形成一弯月牙。		
+alleged	adj	声称的	The museum claims no knowledge of the {{c1::alleged}} fake works in its exhibition.	该博物馆声称对展出的所谓赝品毫不知情		
+weed	noun, 复数	野草、杂草	How can I reduce weed growth in my garden? – Try pouring boiling water on the {{c1::weeds}}!	“我要怎么减少花园里的杂草生长？” “试试把滚水泼在杂草上！”		
+tribute	noun	表示敬意或称赞的礼物；致敬	The artist made a special {{c1::tribute}} to Elvis Presley.	该艺术家为Elvis Presley做了一个特别致敬。		
+embrace	verb	欣然接受	Innovative societies prepare their people to {{c1::embrace}} change.	创新的社会使人们乐于接受改变。		
+regiment	noun	军团	Their {{c1::regiment}} is commanded by a strict colonel.	他们军团听令于一位严格的上校。		
+obliged	verb, 过去式 和 过去分词 同形	强制、有义务做	Most companies are legally {{c1::obliged}} to publish their annual accounts.	多数公司有法定义务公布年度账户。		
+merchant	noun	商人	His father was a clothing and silk {{c1::merchant}}.	他的父亲是个服装和丝绸商。		
+thorn	noun	刺	An optimist sees the rose, not the {{c1::thorn}}.	乐观主义者看到的是玫瑰而不是刺。		
+dissertation	noun	学位论文	Each student will have an individual {{c1::dissertation}} supervisor.	每个学生将有单独的论文导师。		
+sophisticated	adj	高雅的	Do you prefer a fun night dancing or a {{c1::sophisticated}} dinner conversation?	你更喜欢度过一个尽兴跳舞的夜晚，还是晚餐的一席深奥谈话？		
+tin	noun	锡	The largest enterprise of this region is a {{c1::tin}} and precious metal mine.	这个地区最大的企业是一家锡和贵金属矿业。		
+burst	verb, 过去式	突然开始	She {{c1::burst}} out laughing and had to leave the classroom.	她突然大笑出来，不得不离开教室。		
+Israeli	adj	以色列的	{{c1::Israeli}} technology companies have been very successful in selling their products.	以色列的科技公司在销售他们的产品方面十分成功。		
+childcare	noun	托儿	The parents were looking for a suitable {{c1::childcare}} option for their daughter.	那对父母正在为他们的女儿寻找合适的托儿选择		
+chop	verb	切	"Don't forget to wash and peel those vegetables before you {{c1::chop}} them!"	别忘了在切菜之前将那些菜洗净去皮。		
+whatsoever	adv	不管什么	No decision {{c1::whatsoever}} should be made before the CEO is consulted.	在咨询执行长之前，不管什么样的决定都不得作出。		
+rotten	adj	腐烂的	Watch out for {{c1::rotten}} wood while working on the old shed.	在修那座旧棚屋时要当心腐烂的木头。		
+urge	noun	强烈的欲望或冲动	I have the {{c1::urge}} to eat chocolate every time I see an ad on TV.	每次看见电视上的广告，我都有强烈的欲望想吃巧克力。		
+narrator	noun	叙述者	The {{c1::narrator}} of the audiobook made the story seem so interesting.	有声书的叙述者把故事讲得听上去如此有趣。		
+pine	noun	松树	Some local authorities are planting {{c1::pine}} trees for reforestation.	某些地方当局正在种植松树复育林地。		
+prominent	adj	著名的、重要的	The current governor was a {{c1::prominent}} figure in the arts before turning to politics.	现任州长在转投政治之前是艺术界的名人。		
+foul	adj	恶劣的	The weather was rather {{c1::foul}}, with snow and strong winds.	天气相当恶劣，又下雪又刮大风。		
+civilization	noun	文明	{{c1::Civilization}} is changing because of new technology.	文明因应新技术而不断变化。		
+scar	noun	伤痕、疤痕	When skin is injured, {{c1::scar}} tissue forms over the wound to protect the injury.	当皮肤受伤时，会形成疤痕组织来保护伤口。		
+chin	noun	下巴	"I've always had a double {{c1::chin}} since I was a kid."	我从小就有双下巴。		
+meadow	noun	草地	After crossing a small creek bridge, you will reach a wide, grassy {{c1::meadow}}.	过了一座小溪桥后，你就会抵达一大片绿油油的草地。		
+squad	noun	小组、小队	The football {{c1::squad}} is looking stronger every game.	这支足球队随着比赛声势见长。		
+queries	noun, 复数	疑问	We have a couple of {{c1::queries}} regarding delivery.	我们对送货方面有些疑问。		
+refers	verb, 三单	表示	The figure {{c1::refers}} to our sales in Europe.	图表上的是我们在欧洲的销售量。		
+hare	noun	野兔	The dogs are chasing a {{c1::hare}} across the field.	狗狗们正满田野里追一只野兔。		
+myth	noun	神话	The {{c1::myth}} of Sisyphus is one of the most widely known stories in Greek mythology.	薛西弗斯的神话是希腊神话里最广为人知的故事之一。		
+levy	noun	征收、征税	This bill includes a {{c1::levy}} for schools and amounts to 30%.	这份账单包含向学校的征税，数额达30%。		
+imaging	noun	透视显像	Brain {{c1::imaging}} was invented for medical diagnosis.	脑成像被发明用于医疗诊断。		
+traitor	noun	叛徒	He was considered a {{c1::traitor}} for his refusal to help his friends.	由于拒绝帮助朋友，他被视为叛徒。		
+testimony	noun	证词	No court would accept such {{c1::testimony}}.	没有法庭会接受这样的证词。		
+ivy	noun	常春藤	"The house was so overgrown with {{c1::ivy}} that the windows couldn't be opened anymore."	那座房子长满了常春藤，以至于窗子都再也打不开了。		
+comrade	noun	战友、同志	"John is an old army {{c1::comrade}} of mine, and I hope he'll come to the gathering."	John是我的一个老战友，我希望他能来聚会。		
+hostage	noun	人质	Our editor-in-chief was captured and held {{c1::hostage}} during his expedition.	我们的总编在探险途中被俘为人质。		
+alley	noun	小巷	The hostel entrance is at the end of a narrow {{c1::alley}} and might be easily missed.	民宿的入口在一条狭窄小巷的末尾，可能很容易错过。		
+crook	noun	骗子	Everyone called the politician a {{c1::crook}} after details of the scandal were published.	丑闻的细节曝光后，大家都把那个政客叫做骗子。		
+athletic	adj	运动的	I like most {{c1::athletic}} activities, such as running, climbing, swimming, and skiing.	我喜欢大多数运动，比如跑步、攀岩、游泳和滑雪。		
+aerospace	noun	航空航天	Space tourism might be the most exciting news in {{c1::aerospace}} since the moon landing.	太空旅游大概是自登月以来在航空航天方面最令人振奋的新闻了。		
+critics	noun, 复数	批评者、评论家	New York film {{c1::critics}} finally agreed upon the best picture.	纽约电影评论家最终对最佳影片奖取得一致意见。		
+shallow	adj	浅的	{{c1::Shallow}} water is warmer than deep water.	浅水比深水暖和。		
+leap	noun	跳跃	"That's one small step for a man, one giant {{c1::leap}} for mankind."	这是个人的一小步，却是全人类的一大步。		
+injection	noun	打针、注射	The baby cried when he received an {{c1::injection}}.	宝宝边打针边哭。		
+sore	adj	疼痛的	I have a {{c1::sore}} throat.	我喉咙痛。		
+torture	noun	酷刑	Life without my cat would be {{c1::torture}} – I could never give him up.	没有我的猫，我的人生会是场折磨——我永远无法放弃他。		
+catering	noun	餐饮外包	Who is doing the {{c1::catering}} for the reception?	招待会的餐饮服务是谁提供的？		
+woodland	noun	林地	The {{c1::woodland}} contains a wide variety of tree species.	这片林地有丰富的树种。		
+oracle	noun	神谕	{{c1::Oracle}} bone script is considered one of the earliest writing systems in East Asia.	甲骨文被认为是东亚最早的书写系统之一。		
+con	noun	骗局、诈骗	"Microsoft is not calling to fix your computer; it's a {{c1::con}}."	微软才不会打电话给你说要维修你的电脑；这是诈骗。		
+latitude	noun	纬度	The cities of Madrid and New York are almost on the same {{c1::latitude}}.	马德里和纽约这两个城市几乎处于同一个纬度。		
+terrace	noun	阳台	"Let's take the afternoon tea out on the {{c1::terrace}}."	我们把下午茶拿到外面阳台上喝吧。		
+dull	adj	枯燥无味的、单调的	She was disappointed by how {{c1::dull}} the movie was.	她对这部电影如此枯燥乏味感到失望。		
+pump	noun	抽水马达	Sorry, this {{c1::pump}} is out of order.	抱歉，这台水泵故障了。		
+seminar	noun	研讨会	The {{c1::seminar}} had over 150 participants from 12 different countries.	有来自12个国家、超过150位与会者参与这场研讨会。		
+donor	noun	捐赠者	Becoming an organ {{c1::donor}} is easy – just sign this form and let your family know.	成为器官捐赠者很容易——你只要签署这份表格并让你的家人知晓。		
+fluid	adj	流畅的, 不稳定的、易变的	Ballet dancers learn to use {{c1::fluid}} and smooth movements.	芭蕾舞者学习使用流畅平稳的动作。		
+charm	noun	魔咒, 魅力	This village has always had great {{c1::charm}}.	这个村庄总是十分迷人。		
+dignity	noun	尊严	Every individual is worthy of respect and {{c1::dignity}}.	每个个体都值得受到尊重和拥有尊严。		
+essence	noun	本质	"The {{c1::essence}} of the matter wasn't addressed in the brainstorming session."	问题的本质在头脑风暴环节并未得到处理。		
+grief	noun	忧伤、悲伤	Understanding your {{c1::grief}} after the loss of a loved one can help you heal.	理解失去至爱之人后的悲伤可以帮助你复原。		
+inevitably	adv	不可避免地	The exercise of power {{c1::inevitably}} involves compromise.	权力的行使不可避免地涉及到妥协。		
+straightforward	adj	直截了当的	Your explanation sounds simple and {{c1::straightforward}}, but I have some questions.	你的解释听上去简单直接，但我有一些问题。		
+beam	noun	光柱	A laser {{c1::beam}} is silent and invisible.	激光光柱无声无息、无影无踪。		
+crow	noun	乌鸦	The same {{c1::crow}} always comes to my window for food.	同一只乌鸦老是来我的窗前觅食。		
+moss	noun	青苔	{{c1::Moss}} likes to grow in shady locations.	苔藓喜欢生长在阴暗的地方。		
+surrender	verb	投降	I {{c1::surrender}}!	我投降！		
+linguistics	noun	语言学	I am taking an online course in basic theoretical {{c1::linguistics}}.	我在上基础理论语言学的在线课程。		
+demon	noun	恶魔	He has been working like a {{c1::demon}} to build his house for the last six months.	过去六个月以来，他为了盖房子一直拼命地工作。		
+editorial	noun	社论	An {{c1::editorial}} can be about any topic.	社论可以谈论任何话题。		
+liaison	noun	联络人	Sue is the {{c1::liaison}} between the two departments and ensures that communication works.	Sue是这两个部门之间的联络人，确保沟通顺畅。		
+supplement	noun	补充剂	If your diet is already healthy, you may not benefit any further from taking a {{c1::supplement}}.	如果你已经保持健康饮食，吃营养补充剂可能不会有什么太大作用。		
+prizes	noun, 复数	奖赏、奖品	The winners of the race received {{c1::prizes}} from several sponsors.	这场竞赛的获胜者得到好几家赞助商的奖品。		
+void	noun	空虚	People suffering from depression are often trying to fill an unexplainable {{c1::void}}.	患抑郁症的人经常试着填补无法解释的空虚。		
+cork	noun	软木瓶塞	Keep the {{c1::cork}} in case we want to close the bottle again.	留着软木塞，说不定我们还要再封住瓶子。		
+adverse	adj	不利的	No serious {{c1::adverse}} effects were reported throughout the clinical trial.	整个临床试验中都没有严重不良反应的报告。		
+modest	adj	谦虚的	"She was very {{c1::modest}} and didn't want to take much credit for the rise in sales."	她非常谦虚，不想将销售量的上升过多归功于自己。		
+allocated	verb, 过去式 和 过去分词 同形	拨款	The federal government {{c1::allocated}} $140 billion to education in fiscal year 2014.	2014财政年度，联邦政府在教育经费上分配了一千四百亿美元。		
+awkward	adj	令人尴尬的	He asked an {{c1::awkward}} question that made everyone uncomfortable.	他问了一个让大家都觉得不舒服的尴尬问题。		
+sail	verb	航行	Cruise ships {{c1::sail}} the Caribbean from island to island.	游艇在加勒比海从一个岛航行到另一个岛。		
+mistaken	adj	判断错误的	Lucy said this shop would be open on Sunday, but she was sadly {{c1::mistaken}}.	Lucy说这家商店周日会开，但遗憾的是她弄错了。		
